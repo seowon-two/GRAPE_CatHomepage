@@ -1,0 +1,6 @@
+.vscode-server/
+.cache/
+.dotnet/
+.copilot/
+*.bak
+*.db
